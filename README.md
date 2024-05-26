@@ -28,10 +28,10 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 _TBD_
 
 ### Acknowledgments
-_[CasualInvidia] producer of the original mod_
-_[FlashShifter] producer (+team) of Stardew Valley Expanded_ 
-_[Lemurkat] producer (+team) of East Scarp_
-_[Rafseazz] producer (+team) of Ridgeside Village_
+- _[CasualInvidia] producer of the original mod_
+- _[FlashShifter] producer (+team) of Stardew Valley Expanded_ 
+- _[Lemurkat] producer (+team) of East Scarp_
+- _[Rafseazz] producer (+team) of Ridgeside Village_
 
 [CasualInvidia]: <https://www.nexusmods.com/stardewvalley/users/105860563>
 [FlashShifter]: <http://www.nexusmods.com/stardewvalley/users/46021252>
