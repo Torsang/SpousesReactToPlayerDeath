@@ -165,7 +165,7 @@
     {
       "Action": "Include", "FromFile": "assets/IslandLKrobusFri.json" },
     {
-      "Action": "Include", "FromFile": "assets/IslandPLAll.json" }
+      "Action": "Include", "FromFile": "assets/IslandPLAll.json" },
     {
       "Action": "Include", "FromFile": "assets/IslandPLKrobusFri.json" },
     {
