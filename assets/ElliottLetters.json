@@ -1,0 +1,11 @@
+{ // Elliott's Letter From Book Tour
+  "Changes": [
+    "LogName": "Elliot's Book Tour - Letter to Player",
+    "Action": "EditData",
+    "Target": "Data/Mail",
+    "Entries": {
+      "ElliottReactionHospital": "My dearest @,^^Dr. Harvey contacted me yesterday to ask for surgical consent on your behalf while you were unresponsive, and has since updated me on your condition. I was ready to cancel my tour and return home at once, although he assured me that you would be fine.^Truly, darling, I was frightened for you, but all I can do from so far away is ask you to be careful.^I miss you and wish I could have been with you when you needed me the most.^^All my love, your devoted husband Elliott.[#]A Very Worried Husband",
+        "ElliottReactionMine": "Dear @,^^Imagine my surprise when I received a letter from Marlon yesterday! He informed me that you'd collapsed in the mines, although I was relieved to know that your injuries were only minor.^Still, I wish I had been able to be by your side, even for such a tiny mishap. I will have a lot of doting to catch up on once I return home.^^Be safe, and I shall see you soon, darling.^-Love, Elliott[#]A Worried Husband",
+    }
+  ]
+}
