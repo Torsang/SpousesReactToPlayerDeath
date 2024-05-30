@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.2.0
+# SpousesReactToPlayerDeath - Version 1.2.1
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,11 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.2.1 - Mystery of the Missing Keys</summary>
+
+  - Fixed missing nexusmods update key in manifest.json
+</details>
 <details>
   <summary>Version 1.2.0 - Initial File Refactor</summary>
 
