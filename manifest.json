@@ -1,13 +1,12 @@
 {
-   "Name": "Spouses React To Player Death",
-   "Author": "CasualInvidia",
-   "Version": "1.1.0",
-   "Description": "Cutscenes with worried spouses when HP reaches 0.",
-   "UniqueID": "CasualInvidia.SpousesReactToDeath",
-   "MinimumApiVersion": "3.0.0",
-   "UpdateKeys": ["Nexus:7493"],
-      "ContentPackFor": {
-      "UniqueID": "Pathoschild.ContentPatcher"
-   }
-
+  "Name": "Spouses React To Player Death",
+  "Author": "Torsang",
+  "Version": "1.2.0",
+  "Description": "Cutscenes with worried spouses when HP reaches 0.",
+  "UniqueID": "Torsang.SpousesReactToDeath",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [""],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
 }
