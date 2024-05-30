@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.2.3
+# SpousesReactToPlayerDeath - Version 1.2.4
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,12 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.2.4 - Embarrassing Housekeeping</summary>
+
+  - Fixed the update key in manifest.json (for realsies this time)
+  - Created a nested folder in NexusMods releases for unzipping into users' Mods folders
+</details>
 <details>
   <summary>Version 1.2.3 - Nesting Issue</summary>
 
