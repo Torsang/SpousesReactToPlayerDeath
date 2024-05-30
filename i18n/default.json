@@ -322,8 +322,19 @@
 	"MineKilled.Sophia.07": "I'm really glad you're okay, you know. I panicked when Marlon brought you back unconscious, but I didn't want you to wake up to me crying.#$b#I know you're tough to take down, but sometimes, I can't help but worry. I just can't lose you, too, that's all.#$b#Anyway, let's head home. I bet my fabric's already three shades too dark at this point.$1#$b#Oh, and @... Can you write something on your arm with a pen? I just want to test something out.$8",
 
   // Spouse - Lance
-  //TODO
-  
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Lance.04": "",
+  //"PlayerKilled.Lance.05": "",
+  //"PlayerKilled.Lance.08": "",
+  //"PlayerKilled.Lance.20": "",
+  //"PlayerKilled.Lance.21": "",
+  //"PlayerKilled.Lance.22": "",
+
+  //"MineKilled.Lance.01": "",
+  //"MineKilled.Lance.02": "",
+  //"MineKilled.Lance.04": "",
+  //"MineKilled.Lance.07": "",
+
   // Spouse - Victor
   "PlayerKilled.Victor.04": "Are you alright? Does anything hurt? Can I do something to help?$7",
   "PlayerKilled.Victor.05": "Sorry... I just... didn't know what to expect when I heard you'd gotten badly hurt out there. The initial stress has yet to leave me.$2",
@@ -338,10 +349,264 @@
 	"MineKilled.Victor.07": "Let's go home. I'll finally make good on that promise to take care of you when you're sick.#$b#I know, I know! You don't look sick, per se, but you still got roughed up. That's reason enough for me to worry.#$b#Just let me do this for you. I love you, after all, don't I?$1",
 
   // // // East Scarp Section // // //
-  //TODO
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+
+  // Spouse - Aideen
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Aideen.04": "",
+  //"PlayerKilled.Aideen.05": "",
+  //"PlayerKilled.Aideen.08": "",
+  //"PlayerKilled.Aideen.20": "",
+  //"PlayerKilled.Aideen.21": "",
+  //"PlayerKilled.Aideen.22": "",
+
+  //"MineKilled.Aideen.01": "",
+  //"MineKilled.Aideen.02": "",
+  //"MineKilled.Aideen.04": "",
+  //"MineKilled.Aideen.07": "",
+
+  // Spouse - Juliet
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Juliet.04": "",
+  //"PlayerKilled.Juliet.05": "",
+  //"PlayerKilled.Juliet.08": "",
+  //"PlayerKilled.Juliet.20": "",
+  //"PlayerKilled.Juliet.21": "",
+  //"PlayerKilled.Juliet.22": "",
+
+  //"MineKilled.Juliet.01": "",
+  //"MineKilled.Juliet.02": "",
+  //"MineKilled.Juliet.04": "",
+  //"MineKilled.Juliet.07": "",
+
+  // Spouse - Kataryna
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Kataryna.04": "",
+  //"PlayerKilled.Kataryna.05": "",
+  //"PlayerKilled.Kataryna.08": "",
+  //"PlayerKilled.Kataryna.20": "",
+  //"PlayerKilled.Kataryna.21": "",
+  //"PlayerKilled.Kataryna.22": "",
+
+  //"MineKilled.Kataryna.01": "",
+  //"MineKilled.Kataryna.02": "",
+  //"MineKilled.Kataryna.04": "",
+  //"MineKilled.Kataryna.07": "",
+
+  // Spouse - Tristan
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Tristan.04": "",
+  //"PlayerKilled.Tristan.05": "",
+  //"PlayerKilled.Tristan.08": "",
+  //"PlayerKilled.Tristan.20": "",
+  //"PlayerKilled.Tristan.21": "",
+  //"PlayerKilled.Tristan.22": "",
+
+  //"MineKilled.Tristan.01": "",
+  //"MineKilled.Tristan.02": "",
+  //"MineKilled.Tristan.04": "",
+  //"MineKilled.Tristan.07": "",
 
   // // // Ridgeside Village Section // // //
-  //TODO
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+
+  // Spouse - Alissa
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Alissa.04": "",
+  //"PlayerKilled.Alissa.05": "",
+  //"PlayerKilled.Alissa.08": "",
+  //"PlayerKilled.Alissa.20": "",
+  //"PlayerKilled.Alissa.21": "",
+  //"PlayerKilled.Alissa.22": "",
+
+  //"MineKilled.Alissa.01": "",
+  //"MineKilled.Alissa.02": "",
+  //"MineKilled.Alissa.04": "",
+  //"MineKilled.Alissa.07": "",
+
+  // Spouse - Blair
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Blair.04": "",
+  //"PlayerKilled.Blair.05": "",
+  //"PlayerKilled.Blair.08": "",
+  //"PlayerKilled.Blair.20": "",
+  //"PlayerKilled.Blair.21": "",
+  //"PlayerKilled.Blair.22": "",
+
+  //"MineKilled.Blair.01": "",
+  //"MineKilled.Blair.02": "",
+  //"MineKilled.Blair.04": "",
+  //"MineKilled.Blair.07": "",
+
+  // Spouse - Corine
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Corine.04": "",
+  //"PlayerKilled.Corine.05": "",
+  //"PlayerKilled.Corine.08": "",
+  //"PlayerKilled.Corine.20": "",
+  //"PlayerKilled.Corine.21": "",
+  //"PlayerKilled.Corine.22": "",
+
+  //"MineKilled.Corine.01": "",
+  //"MineKilled.Corine.02": "",
+  //"MineKilled.Corine.04": "",
+  //"MineKilled.Corine.07": "",
+
+  // Spouse - Flor
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Flor.04": "",
+  //"PlayerKilled.Flor.05": "",
+  //"PlayerKilled.Flor.08": "",
+  //"PlayerKilled.Flor.20": "",
+  //"PlayerKilled.Flor.21": "",
+  //"PlayerKilled.Flor.22": "",
+
+  //"MineKilled.Tristan.01": "",
+  //"MineKilled.Tristan.02": "",
+  //"MineKilled.Tristan.04": "",
+  //"MineKilled.Tristan.07": "",
+
+  // Spouse - Kiarra
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Kiarra.04": "",
+  //"PlayerKilled.Kiarra.05": "",
+  //"PlayerKilled.Kiarra.08": "",
+  //"PlayerKilled.Kiarra.20": "",
+  //"PlayerKilled.Kiarra.21": "",
+  //"PlayerKilled.Kiarra.22": "",
+
+  //"MineKilled.Kiarra.01": "",
+  //"MineKilled.Kiarra.02": "",
+  //"MineKilled.Kiarra.04": "",
+  //"MineKilled.Kiarra.07": "",
+
+  // Spouse - Maddie
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Maddie.04": "",
+  //"PlayerKilled.Maddie.05": "",
+  //"PlayerKilled.Maddie.08": "",
+  //"PlayerKilled.Maddie.20": "",
+  //"PlayerKilled.Maddie.21": "",
+  //"PlayerKilled.Maddie.22": "",
+
+  //"MineKilled.Maddie.01": "",
+  //"MineKilled.Maddie.02": "",
+  //"MineKilled.Maddie.04": "",
+  //"MineKilled.Maddie.07": "",
+
+  // Spouse - Ysabelle
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Ysabelle.04": "",
+  //"PlayerKilled.Ysabelle.05": "",
+  //"PlayerKilled.Ysabelle.08": "",
+  //"PlayerKilled.Ysabelle.20": "",
+  //"PlayerKilled.Ysabelle.21": "",
+  //"PlayerKilled.Ysabelle.22": "",
+
+  //"MineKilled.Ysabelle.01": "",
+  //"MineKilled.Ysabelle.02": "",
+  //"MineKilled.Ysabelle.04": "",
+  //"MineKilled.Ysabelle.07": "",
+
+  // Spouse - Ian
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Ian.04": "",
+  //"PlayerKilled.Ian.05": "",
+  //"PlayerKilled.Ian.08": "",
+  //"PlayerKilled.Ian.20": "",
+  //"PlayerKilled.Ian.21": "",
+  //"PlayerKilled.Ian.22": "",
+
+  //"MineKilled.Ian.01": "",
+  //"MineKilled.Ian.02": "",
+  //"MineKilled.Ian.04": "",
+  //"MineKilled.Ian.07": "",
+
+  // Spouse - Jeric
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Jeric.04": "",
+  //"PlayerKilled.Jeric.05": "",
+  //"PlayerKilled.Jeric.08": "",
+  //"PlayerKilled.Jeric.20": "",
+  //"PlayerKilled.Jeric.21": "",
+  //"PlayerKilled.Jeric.22": "",
+
+  //"MineKilled.Jeric.01": "",
+  //"MineKilled.Jeric.02": "",
+  //"MineKilled.Jeric.04": "",
+  //"MineKilled.Jeric.07": "",
+
+  // Spouse - June
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.June.04": "",
+  //"PlayerKilled.June.05": "",
+  //"PlayerKilled.June.08": "",
+  //"PlayerKilled.June.20": "",
+  //"PlayerKilled.June.21": "",
+  //"PlayerKilled.June.22": "",
+
+  //"MineKilled.June.01": "",
+  //"MineKilled.June.02": "",
+  //"MineKilled.June.04": "",
+  //"MineKilled.June.07": "",
+
+  // Spouse - Kenneth
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Kenneth.04": "",
+  //"PlayerKilled.Kenneth.05": "",
+  //"PlayerKilled.Kenneth.08": "",
+  //"PlayerKilled.Kenneth.20": "",
+  //"PlayerKilled.Kenneth.21": "",
+  //"PlayerKilled.Kenneth.22": "",
+
+  //"MineKilled.Kenneth.01": "",
+  //"MineKilled.Kenneth.02": "",
+  //"MineKilled.Kenneth.04": "",
+  //"MineKilled.Kenneth.07": "",
+
+  // Spouse - Philip
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Philip.04": "",
+  //"PlayerKilled.Philip.05": "",
+  //"PlayerKilled.Philip.08": "",
+  //"PlayerKilled.Philip.20": "",
+  //"PlayerKilled.Philip.21": "",
+  //"PlayerKilled.Philip.22": "",
+
+  //"MineKilled.Philip.01": "",
+  //"MineKilled.Philip.02": "",
+  //"MineKilled.Philip.04": "",
+  //"MineKilled.Philip.07": "",
+
+  // Spouse - Sean
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Sean.04": "",
+  //"PlayerKilled.Sean.05": "",
+  //"PlayerKilled.Sean.08": "",
+  //"PlayerKilled.Sean.20": "",
+  //"PlayerKilled.Sean.21": "",
+  //"PlayerKilled.Sean.22": "",
+
+  //"MineKilled.Sean.01": "",
+  //"MineKilled.Sean.02": "",
+  //"MineKilled.Sean.04": "",
+  //"MineKilled.Sean.07": "",
+
+  // Spouse - Shiro
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"PlayerKilled.Shiro.04": "",
+  //"PlayerKilled.Shiro.05": "",
+  //"PlayerKilled.Shiro.08": "",
+  //"PlayerKilled.Shiro.20": "",
+  //"PlayerKilled.Shiro.21": "",
+  //"PlayerKilled.Shiro.22": "",
+
+  //"MineKilled.Shiro.01": "",
+  //"MineKilled.Shiro.02": "",
+  //"MineKilled.Shiro.04": "",
+  //"MineKilled.Shiro.07": "",
+
+  
 
   //////////////////////////
   // End Dialogue Section //
@@ -585,7 +850,16 @@
   "IslandEnd.Sophia.01": "Whoa! Hey, you! You look like you've had an exciting day.$5#$b#A volcano adventure...? Goodness, you really are living a life for the books. Just be sure you don't get seriously hurt, okay?$1#$b#Okay, go wash up. All that soot in your hair looks like hair dye gone wrong.$1#$b#I really fell in love with the wildest of the whole bunch, didn't I?$9",
 
   // End Dialogue - Lance
-  //TODO
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Lance.01": "",
+  //"HospitalEnd.Lance.02": "",
+
+  //"MineEnd.Lance.01": "",
+  //"MineEnd.Lance.02": "",
+
+  //"DivorcedEnd.Lance.01": "",
+
+  //"IslandEnd.Lance.01": "",
 
   // End Dialogue - Victor
   "HospitalEnd.Victor.01": "Oh, you're home! I hope the walk home wasn't too hard on you. I know you're tough, but I really can't help but worry when accidents like this happen.",
@@ -599,8 +873,224 @@
   "IslandEnd.Victor.01": "Oh dear, what happened to you!?$7#$b#Are you sure you're okay? Your clothes are charred and those burns look painful!$7#$b#...A volcano? Oh, did Willy take you to the Fern Islands? Please be careful out there.#$b#You live an exciting life, @, but as your husband, whose life is mundane in comparison, it's my responsibility to remind you that you have limits, too.$3",
 
   // // // East Scarp Section // // //
-  //TODO
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+
+  // End Dialogue - Aideen
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Aideen.01": "",
+  //"HospitalEnd.Aideen.02": "",
+
+  //"MineEnd.Aideen.01": "",
+  //"MineEnd.Aideen.02": "",
+
+  //"DivorcedEnd.Aideen.01": "",
+
+  //"IslandEnd.Aideen.01": "",
+
+  // End Dialogue - Juliet
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Juliet.01": "",
+  //"HospitalEnd.Juliet.02": "",
+
+  //"MineEnd.Juliet.01": "",
+  //"MineEnd.Juliet.02": "",
+
+  //"DivorcedEnd.Juliet.01": "",
+
+  //"IslandEnd.Juliet.01": "",
+
+  // End Dialogue - Kataryna
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Kataryna.01": "",
+  //"HospitalEnd.Kataryna.02": "",
+
+  //"MineEnd.Kataryna.01": "",
+  //"MineEnd.Kataryna.02": "",
+
+  //"DivorcedEnd.Kataryna.01": "",
+
+  //"IslandEnd.Kataryna.01": "",
+
+  // End Dialogue - Tristan
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Tristan.01": "",
+  //"HospitalEnd.Tristan.02": "",
+
+  //"MineEnd.Tristan.01": "",
+  //"MineEnd.Tristan.02": "",
+
+  //"DivorcedEnd.Tristan.01": "",
+
+  //"IslandEnd.Tristan.01": "",
 
   // // // Ridgeside Village Section // // //
-  //TODO
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+
+  // End Dialogue - Alissa
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Alissa.01": "",
+  //"HospitalEnd.Alissa.02": "",
+
+  //"MineEnd.Alissa.01": "",
+  //"MineEnd.Alissa.02": "",
+
+  //"DivorcedEnd.Alissa.01": "",
+
+  //"IslandEnd.Alissa.01": "",
+
+  // End Dialogue - Blair
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Blair.01": "",
+  //"HospitalEnd.Blair.02": "",
+
+  //"MineEnd.Blair.01": "",
+  //"MineEnd.Blair.02": "",
+
+  //"DivorcedEnd.Blair.01": "",
+
+  //"IslandEnd.Blair.01": "",
+
+  // End Dialogue - Corine
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Corine.01": "",
+  //"HospitalEnd.Corine.02": "",
+
+  //"MineEnd.Corine.01": "",
+  //"MineEnd.Corine.02": "",
+
+  //"DivorcedEnd.Corine.01": "",
+
+  //"IslandEnd.Corine.01": "",
+
+  // End Dialogue - Flor
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Flor.01": "",
+  //"HospitalEnd.Flor.02": "",
+
+  //"MineEnd.Flor.01": "",
+  //"MineEnd.Flor.02": "",
+
+  //"DivorcedEnd.Flor.01": "",
+
+  //"IslandEnd.Flor.01": "",
+
+  // End Dialogue - Kiarra
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Kiarra.01": "",
+  //"HospitalEnd.Kiarra.02": "",
+
+  //"MineEnd.Kiarra.01": "",
+  //"MineEnd.Kiarra.02": "",
+
+  //"DivorcedEnd.Kiarra.01": "",
+
+  //"IslandEnd.Kiarra.01": "",
+
+  // End Dialogue - Maddie
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Maddie.01": "",
+  //"HospitalEnd.Maddie.02": "",
+
+  //"MineEnd.Maddie.01": "",
+  //"MineEnd.Maddie.02": "",
+
+  //"DivorcedEnd.Maddie.01": "",
+
+  //"IslandEnd.Maddie.01": "",
+
+  // End Dialogue - Ysabelle
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Ysabelle.01": "",
+  //"HospitalEnd.Ysabelle.02": "",
+
+  //"MineEnd.Ysabelle.01": "",
+  //"MineEnd.Ysabelle.02": "",
+
+  //"DivorcedEnd.Ysabelle.01": "",
+
+  //"IslandEnd.Ysabelle.01": "",
+
+  // End Dialogue - Ian
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Ian.01": "",
+  //"HospitalEnd.Ian.02": "",
+
+  //"MineEnd.Ian.01": "",
+  //"MineEnd.Ian.02": "",
+
+  //"DivorcedEnd.Ian.01": "",
+
+  //"IslandEnd.Ian.01": "",
+
+  // End Dialogue - Jeric
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Jeric.01": "",
+  //"HospitalEnd.Jeric.02": "",
+
+  //"MineEnd.Jeric.01": "",
+  //"MineEnd.Jeric.02": "",
+
+  //"DivorcedEnd.Jeric.01": "",
+
+  //"IslandEnd.Jeric.01": "",
+
+  // End Dialogue - June
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.June.01": "",
+  //"HospitalEnd.June.02": "",
+
+  //"MineEnd.June.01": "",
+  //"MineEnd.June.02": "",
+
+  //"DivorcedEnd.June.01": "",
+
+  //"IslandEnd.June.01": "",
+
+  // End Dialogue - Kenneth
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Kenneth.01": "",
+  //"HospitalEnd.Kenneth.02": "",
+
+  //"MineEnd.Kenneth.01": "",
+  //"MineEnd.Kenneth.02": "",
+
+  //"DivorcedEnd.Kenneth.01": "",
+
+  //"IslandEnd.Kenneth.01": "",
+
+  // End Dialogue - Philip
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Philip.01": "",
+  //"HospitalEnd.Philip.02": "",
+
+  //"MineEnd.Philip.01": "",
+  //"MineEnd.Philip.02": "",
+
+  //"DivorcedEnd.Philip.01": "",
+
+  //"IslandEnd.Philip.01": "",
+
+  // End Dialogue - Sean
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Sean.01": "",
+  //"HospitalEnd.Sean.02": "",
+
+  //"MineEnd.Sean.01": "",
+  //"MineEnd.Sean.02": "",
+
+  //"DivorcedEnd.Sean.01": "",
+
+  //"IslandEnd.Sean.01": "",
+
+  // End Dialogue - Shiro
+  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
+  //"HospitalEnd.Shiro.01": "",
+  //"HospitalEnd.Shiro.02": "",
+
+  //"MineEnd.Shiro.01": "",
+  //"MineEnd.Shiro.02": "",
+
+  //"DivorcedEnd.Shiro.01": "",
+
+  //"IslandEnd.Shiro.01": ""
 }
