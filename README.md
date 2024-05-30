@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.2.1
+# SpousesReactToPlayerDeath - Version 1.2.2
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,12 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.2.2 - Syntax Correction</summary>
+
+  - Fixed missing comma in content.json
+  - Started creating i18n entries for the missing permitted characters (each character is commented out until finished)
+</details>
 <details>
   <summary>Version 1.2.1 - Mystery of the Missing Keys</summary>
 
@@ -33,10 +39,29 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 - [x] Refactor content.json to delegate files for ease of modification
 - [ ] Add missing SVE character - Lance
 - [ ] Add content for the remaining East Scarp characters (Jasper was the original inspiration for this mod, and is already handled in the East Scarp mod?)
+  - [ ] Aideen
+  - [ ] Juliet
+  - [ ] Kataryna
+  - [ ] Tristan
 - [ ] Add content for the Ridgeside Village characters
+  - [ ] Alissa
+  - [ ] Blair
+  - [ ] Corine
+  - [ ] Flor
+  - [ ] Kiarra
+  - [ ] Maddie
+  - [ ] Ysabelle
+  - [ ] Ian
+  - [ ] Jeric
+  - [ ] June
+  - [ ] Kenneth
+  - [ ] Philip
+  - [ ] Sean
+  - [ ] Shiro
 - [ ] Follow up on additional characters as time/motivation allows
 - [ ] Add additional content for event variants (spouses shouldn't say the same thing every single time, hey?)
- ~~Investigate refactoring i18n file for ease of modification~~ i18n cannot be refactored as far as I can tell, sadge
+
+~~Investigate refactoring i18n file for ease of modification~~ i18n files cannot be refactored as far as I can tell, sadge
 
 ### License
 _TBD_ (will talk to CasualInvidia regarding licensing)
