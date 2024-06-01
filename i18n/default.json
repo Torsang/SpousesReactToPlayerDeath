@@ -1,8 +1,28 @@
 { 
+  // Utility Strings //
+  "ExInvolvement.Description": "When not remarried, allows your ex-spouse to visit the hospital after player 'death' for an expanded cutscene.",
+  
   /////////////////////////////
   // Common Dialogue Section //
   /////////////////////////////
+
+  // Unspecified/Shared Dialogue
+  "Spouse.Enter": "I'm coming in, {0}!",
+  "Spouse.Thanks": "...Thanks, Doc",
+  "Hospital.Thoughts.01": "I'd better return home and rest...",
+  "Mines.Eyes": "Open your eyes, {2}.",
+  "Mines.Wake": "Darling, wake up!",
+  "Mines.Shake": "Something is shaking me by the shoulders...",
+  "Mines.Thoughts.01": "I do feel exhausted, but not terribly injured, as he said.",
+  "Mines.Thoughts.02": "Hopefully, that will be enough to reassure Elliott, wherever he is now...",
+  "Island.Wake": "{2}, wake up!",
+  "Island.Thoughts.01": "I'm going to get a worried look if I go home like this...",
+  "Island.Thoughts.02": "I definitely look worse than I feel, though. That's reassuring.",
   
+  // Elliott On Tour
+  "ElliottReaction.Hospital": "My dearest @,^^Dr. Harvey contacted me yesterday to ask for surgical consent on your behalf while you were unresponsive, and has since updated me on your condition. I was ready to cancel my tour and return home at once, although he assured me that you would be fine.^Truly, darling, I was frightened for you, but all I can do from so far away is ask you to be careful.^I miss you and wish I could have been with you when you needed me the most.^^All my love, your devoted husband Elliott.[#]A Very Worried Husband",
+  "ElliottReaction.Mines": "Dear @,^^Imagine my surprise when I received a letter from Marlon yesterday! He informed me that you'd collapsed in the mines, although I was relieved to know that your injuries were only minor.^Still, I wish I had been able to be by your side, even for such a tiny mishap. I will have a lot of doting to catch up on once I return home.^^Be safe, and I shall see you soon, darling.^-Love, Elliott[#]A Worried Husband",
+
   // Generic Dialogue - Harvey
 	"PlayerKilled.doctor.01": " ...{0}?",
   "PlayerKilled.doctor.02":"Easy, now... take it slow.",
@@ -15,6 +35,10 @@
   "PlayerKilled.doctor.09": "I'll let you two finish up here. Maru, if you need any days off after this, you know you can always ask.",
   "PlayerKilled.doctor.10": "You... have a visitor, by the way. They've been here since you went into surgery, and they were just waiting to talk to you.#$b#Just as it's their right to visit, though, it's also your right to refuse visitors. I'm a button-push away, if you need me.",
   "PlayerKilled.doctor.11": "@ is ready to see you.#$b#It's not my place to get involved in private matters, but all I ask is that you remember that he needs his rest. ^It's not my place to get involved in private matters, but all I ask is that you remember that she needs her rest.#$b#...And you should think of your own wellbeing, too.$2",
+  "PlayerKilled.doctor.12": "Elliott was prepared to drop everything and return home to you...",
+  "PlayerKilled.doctor.13": "Well, if you're feeling alright, you can go home. Elliott said he would write you a letter soon, so keep an eye on your mail.",
+  "PlayerKilled.doctor.14": "Take care!",
+  "PlayerKilled.doctor.15": "Alright. Take care.",
 
   // Generic Dialogue - Marlon
   "MineKilled.Marlon.01": "Hello there, @. I'm glad you managed to wake. For a moment, I was worried that your injury may have been worse than it looked.",
@@ -27,6 +51,7 @@
 	"MineKilled.Marlon.08": "It's in my nature to be frank. I'm simply stating the fact of what I observed. You did well to fetch me.",
   "MineKilled.Marlon.09": "At any rate, it is best you return home. You may have gotten away with only a mild injury, but you shouldn't be negligent of your exhaustion.",
   "MineKilled.Marlon.10": "I should also inform you that, as per Guild policy, I will be sending a brief memo of today's events to your next of kin. Your husband, in this case.#$b#I shall not disclose anything more than general information, do not worry. Simply focus on regaining your strength.#$b# And of course, continue the good work you're doing once you're recovered. You're truly an invaluable member of the Guild.",
+  "MineKilled.Marlon.11": "Farewell",
 	
   // Generic Dialogue - Leo
   "IslandKilled.Leo.01": "Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1",
@@ -140,6 +165,8 @@
 	"MineKilled.Alex.07": "Hey, let's head on home. Want to jog down the mountain with me?#$b#Oh, wait. You probably shouldn't be exerting yourself right now. You don't look too injured, but let's still be careful.#$b#I'll jog ahead and tidy up so you can crash when you get there. Meet you at home! Love you!$1",
   
   // Spouse - Elliott 
+  "PlayerKilled.Elliott.01": "I feel well enough to return home, but...",
+  "PlayerKilled.Elliott.02": "At a time like this, I miss Elliott more than ever.",
   "PlayerKilled.Elliott.04": "Oh, my dearest, look at you... I hurried over as soon as I heard you were injured!$2",
   "PlayerKilled.Elliott.05": "You certainly seem better... You're not in too much pain, I hope?$2#$b#Even if you stand in front of me now, my heart cannot help but worry.$2",
   "PlayerKilled.Elliott.08": "Darling, there are no words to express how relieved I am that you pulled through.#$b#In the moments when your condition remained unsure, I realized how much of myself I owed to you. I couldn't bear to ever lose you.#$b#I beg of you to be more careful next time, if only to protect our happily ever after together.$2",
@@ -161,6 +188,8 @@
   "PlayerKilled.Harvey.06": "Alright. Let's be positive about this. You pulled through, just like I knew you would.$1",
   "PlayerKilled.Harvey.07": "Just please be more careful in the future. I don't think I can ever see you like that again.$2",
   "PlayerKilled.Harvey.08": "@ is fine... So why am I still shaking like this...?",
+  "PlayerKilled.Harvey.09": "My goodness, look at you...",
+  "PlayerKilled.Harvey.10": "Take care",
   "PlayerKilled.Harvey.20": "I know you might not want to hear it from me, @, but... I'm glad you're okay.#$b#I say this not just as your doctor, but also as...#$b#...$2",
   "PlayerKilled.Harvey.21": "Nevermind. Above all, I am a professional first and foremost.#$b#As Harvey, I still have trouble looking you in the eye. But as your doctor, it's my duty to treat you, and I hope you never doubt how seriously I do just that.$2#$b#...Anyway. You're cleared to return home, if you want. Take care, @.$2",
 
@@ -209,6 +238,8 @@
 	"MineKilled.Shane.07": "Hey... we should go home and grab something to eat. You've had a rough day today.#$b#You can come back another time to finish what you started, okay?$6#$b#Even the toughest fighters need to take a break sometimes. And anyway, we both know you'll make short work of whatever got you today the next time you're down there.$1",
 
   // Spouse - Krobus
+  "PlayerKilled.Krobus.Fri1": "Krobus seems shocked by his own voice... that's right! Today is Friday.",
+  "PlayerKilled.Krobus.Fri2": "Krobus doesn't say anything, but he looks like there's a lot weighing on him. I'd better be careful next time, if only for his sake.",
   "PlayerKilled.Krobus.01": "I'm okay, @. I don't think anyone saw me sneak in here.#$b#I should be asking you that question, though! I heard you got badly hurt and I felt worry in my soul for you!$2",
   "PlayerKilled.Krobus.02": "Blessed be Yoba for keeping you safe... I don't know what I would have done if you'd left me...$2#$b#You know that's true, yes? That I would be lost without you?$2#$b#You gave me companionship, a home... even introduced me to the double-edged sensation of love. You must realize how much I would hurt to lose you... right?$2",
   "PlayerKilled.Krobus.03": "We should not linger, in case the human physician returns... but I am thankful to know that you have pulled through with only minor consequence.#$b#Still, @... Do not forget that I cherish you.#$b#We creatures of the night never die, only cease to exist in due time. But you fragile humans can fade at any time, without warning, and that scares me more than anything.$2#$b#Yoba watch over you, @. My home is with you, now and forever.$2",
@@ -222,6 +253,8 @@
   "MineKilled.Krobus.04": "Oh. And it has gone again.$3#$b#Not a problem! I will reflect on it further the next time it appears.$7#$b#For now, shall we return home together, @?$1",
   "MineKilled.Krobus.05": "...!$1",
 	"MineKilled.Krobus.06": "...$4#$b#...!$7",
+  "MineKilled.Krobus.07": "Oh, that's right. Today is Friday, so Krobus can't answer any of my questions.",
+  "MineKilled.Krobus.08": "I must have gotten knocked out... But Krobus doesn't seem worried, and that'll have to be enough for now. We should return home.",
   
   // // // Base-game But Marriageable Via Mods Section // // //
   // Spouse - Pam
@@ -263,6 +296,7 @@
 	"MineKilled.Willy.04": "Not at all. On the coldest nights on the seas, a heart's all you have to keep you warm.#$b#It's with that same heart that I care for @ every day, that's all.$1",
 	"MineKilled.Willy.07": "Shall we return home? You look like you've had quite the long day. I can prepare some trout soup with freshly caught fish once we get there.#$b#And once again... I'm relieved you're relatively unharmed. Whatever that hunch or that mysterious feeling was, I'm grateful that it pointed my compass your way.$1",
 
+  "IslandKilled.Willy.00": "Please wake up, my sweet!",
   "IslandKilled.Willy.01": "Are you alright, lad? I found you face-down on the sand here and feared the worst for a moment. ^Are you alright, lass? I found you face-down on the sand here and feared the worst for a moment.",
   "IslandKilled.Willy.02": "You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there are much less chances that anyone would find you, should you collapse anywhere.#$b#Ah... Your clothes are singed badly and you're smeared in ash, so you definitely look impressive at first glance.$1#$b#I hope you don't give your spouse a fright when you return home.$1",
   "IslandKilled.Willy.03": "Are you alright, dearest? I found you face-down on the sand here and feared the worst for a moment.",
@@ -277,6 +311,7 @@
   "PlayerKilled.Wizard.21": "As expected, you are well. You've always astounded me with your potential for recovery. That is inherently the bulk of your innate magical talent.#$b#Ah, but... I've not come to discuss the past. I only came because...#$b#...#$b#No matter how my spirit clings to the arcane, my heart remains painfully human.",
   "PlayerKilled.Wizard.22": "I could not let you face this endeavor alone. It matters not that we are no longer together; simply, it would have been inhumane of me.#$b#The touch of death has broken many before you. I am not so cruel as to let you face it alone and risk the same happening to you.#$b#Regardless. Now that you look well, I will take my leave. Farewell, @. May the fates keep you well.",
 
+  "MineKilled.Wizard.00": "Hm, perhaps this will help...",
   "MineKilled.Wizard.01": "Ah, there you are. I was about to use my frog-eye smelling salts to wake you.",
 	"MineKilled.Wizard.02": "I will explain briefly. I was simply divining with the mountain spirits when they warned me that calamity would befall you.#$b#Of course, they would never lie to me, so I warped to the location where I sensed your energy last.#$b#You were face-down on the ground, with only a mild injury but perplexingly unconscious. Therefore, I brought you to the surface to investigate your condition.",
 	"MineKilled.Wizard.03": "As it seems, you will make a full recovery. The exhaustion might follow you for the rest of the day, however.#$b#Are you able to walk down the mountain? I could attempt to warp you to the farmhouse, but with one magically untrained...#$b#Perhaps it is best we don't tempt the fates today. I'll go on ahead and prepare for your arrival at home, alright? Be safe, my star.",
@@ -323,10 +358,10 @@
 
   // Spouse - Lance
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Lance.04": "",
-  //"PlayerKilled.Lance.05": "",
-  //"PlayerKilled.Lance.08": "",
-  //"PlayerKilled.Lance.20": "",
+  //"PlayerKilled.Lance.04": "I came to see you, dear heart. I am here for you.$2",
+  //"PlayerKilled.Lance.05": "Now that I see you are safe I can calm myself.$2#$b# I think I'm more tense now than in combat.$1",
+  //"PlayerKilled.Lance.08": "Dr. Harvey has assured me that you will recover. He is a patient man to tolerate my fussing.#$b#I do not relish the idea of losing you. You are my peace. My heart. My home.$2",
+  //"PlayerKilled.Lance.20": "Thank you again, Dr. Harvey. I will not linger overlong. ",
   //"PlayerKilled.Lance.21": "",
   //"PlayerKilled.Lance.22": "",
 

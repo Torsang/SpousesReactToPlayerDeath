@@ -8,7 +8,7 @@
     "ExInvolvement": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Description": "When not remarried, allows your ex-spouse to visit the hospital after player 'death' for an expanded cutscene."
+      "Description": "{{i18n:ExInvolvement.Description}}"
     },
   },
 
