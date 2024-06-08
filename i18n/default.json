@@ -66,6 +66,9 @@
   "PlayerKilled.default.04":"Thank goodness you're okay...$2",
   "PlayerKilled.default.05":"I came as fast as possible when I heard you were hurt.#$b#I was really worried for you.$2",
   "PlayerKilled.default.08": "I'm relieved that you look better already, but please, @... Don't ever scare me like that again.$2",
+  // "PlayerKilled.default.20": "",
+  // "PlayerKilled.default.21": "",
+  // "PlayerKilled.default.22": "",
 
   "MineKilled.default.01": "Easy does it, dear. Are you feeling okay?",
 	"MineKilled.default.02": "You were gone for a really long time, so I got a little worried.#$b#Marlon agreed to go check in on you for my peace of mind, and I'm just glad he found you in time. You look like you'll be alright.$2",
@@ -357,18 +360,17 @@
 	"MineKilled.Sophia.07": "I'm really glad you're okay, you know. I panicked when Marlon brought you back unconscious, but I didn't want you to wake up to me crying.#$b#I know you're tough to take down, but sometimes, I can't help but worry. I just can't lose you, too, that's all.#$b#Anyway, let's head home. I bet my fabric's already three shades too dark at this point.$1#$b#Oh, and @... Can you write something on your arm with a pen? I just want to test something out.$8",
 
   // Spouse - Lance
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Lance.04": "I came to see you, dear heart. I am here for you.$2",
-  //"PlayerKilled.Lance.05": "Now that I see you are safe I can calm myself.$2#$b# I think I'm more tense now than in combat.$1",
-  //"PlayerKilled.Lance.08": "Dr. Harvey has assured me that you will recover. He is a patient man to tolerate my fussing.#$b#I do not relish the idea of losing you. You are my peace. My heart. My home.$2",
-  //"PlayerKilled.Lance.20": "Thank you again, Dr. Harvey. I will not linger overlong. ",
-  //"PlayerKilled.Lance.21": "",
-  //"PlayerKilled.Lance.22": "",
+  "PlayerKilled.Lance.04": "I came to see you, dear heart. I am here for you.$2",
+  "PlayerKilled.Lance.05": "Now that I see you are safe I can calm myself.$2#$b# I think I'm more tense now than in combat.$3",
+  "PlayerKilled.Lance.08": "There is still fear in my heart. But Dr. Harvey has assured me that you are already recovering. He is gracious to tolerate my fussing.#$b#It goes without saying that I loathe the idea of losing you. You know my heart. You are my peace. My home.$2",
+  "PlayerKilled.Lance.20": "Thank you again, Dr. Harvey. I will not linger overlong.",
+  "PlayerKilled.Lance.21": "I am as always impressed by your resilience, @. But we are all vulnerable.$6#$b#...I hope I am not overstepping, involving myself at such a time.$2#$b#Everyone needs help some day. And I am still willing to provide such support.$2",
+  "PlayerKilled.Lance.22": "Falling in combat is a terrible thing. It is surely not glorious like the stories.$3#$b#You shouldn't have to face such a fate. I don't feel you deserve it. Not even after... us.$2#$b#I apologize. My heart is in turmoil.$6#$b#I should leave. Rest and be well, @.$2",
 
-  //"MineKilled.Lance.01": "",
-  //"MineKilled.Lance.02": "",
-  //"MineKilled.Lance.04": "",
-  //"MineKilled.Lance.07": "",
+  "MineKilled.Lance.01": "I have you dear. You're safe.$6",
+  "MineKilled.Lance.02": "I was going over my research when my instincts screamed to find you. I rushed to the mines. I brought Marlon as well$5#$b#He spotted you and we brought you back here. Thank Yoba we weren't too late.$2",
+  "MineKilled.Lance.04": "Such praise is unnecessary. This is no more than @ would do for me#$b#He supports me, it is only fair I do likewise^She supports me, it is only fair I do likewise.",
+  "MineKilled.Lance.07": "Disaster has been averted. I know one thing is clear. You need rest.$1#$b#Let us retire to our home, my dear @. I want little more than to dote on my beloved.",
 
   // Spouse - Victor
   "PlayerKilled.Victor.04": "Are you alright? Does anything hurt? Can I do something to help?$7",
@@ -387,22 +389,21 @@
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
 
   // Spouse - Aideen
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Aideen.04": "",
-  //"PlayerKilled.Aideen.05": "",
-  //"PlayerKilled.Aideen.08": "",
-  //"PlayerKilled.Aideen.20": "",
-  //"PlayerKilled.Aideen.21": "",
-  //"PlayerKilled.Aideen.22": "",
+  "PlayerKilled.Aideen.04": "My sweet @, are you ok? Please, how can I help?$5",
+  "PlayerKilled.Aideen.05": "My apologies, I seem to have lost my composure. When I received word of your injuries, of course I came with all due haste!#3",
+  "PlayerKilled.Aideen.08": "I feared the strain would be my undoing. Even with the knowledge of your constitution, I could naught but worry.$2#$b#I fear for you, dearest. @, please use the utmost discretion when venturing into such treacherous territory. For me.$2",
+  "PlayerKilled.Aideen.20": "You have my gratitude, Dr. Harvey. My visit shall be both cordial and prompt.",
+  "PlayerKilled.Aideen.21": "Hello @. Pardon the intrusion. I wished to confirm that you were recovering from your unforunate foray.$6#$b#It may no longer be my place to worry over you. But someone should at least be present upon your waking.$2#$b#You deserve that much kindness...$2",
+  "PlayerKilled.Aideen.22": "Such a frightful thing, to face the prospect of death. What's more, being alone at such a moment!$3#$b#Nobody else came to keep watch until you woke. But I did. At least it was not unbearable.#$b#Now. If you're certain you're on the mend, I shall take my leave. I am afraid my heart still yearns in vain.$2",
 
-  //"MineKilled.Aideen.01": "",
-  //"MineKilled.Aideen.02": "",
-  //"MineKilled.Aideen.04": "",
-  //"MineKilled.Aideen.07": "",
+  "MineKilled.Aideen.01": "Dear Yoba! The state of you! How dreadful you look, oh my darling @!#3",
+  "MineKilled.Aideen.02": "I cannot explain it, @, but I became greatly unsettled while tending my garden. And I just knew you were in distress.#$b#Marlon showed great valor in retrieving you from the depths$1#$b#I dearly hoped I was mistaken, but here you are. Hmm. With a better look at you, it seems I've little to fear. You are undoubtedly stout.#$b#But to feel your need of assistance... Perhaps I've acquired the gift of clairvoyance?$7",
+  "MineKilled.Aideen.04": "I'm afraid I would be of no use to @ down below. Therefore I shall be ever more supportive elsewhere.$1#$b#I must lean into my strengths afterall.$1",
+  "MineKilled.Aideen.07": "You're certain you'll be fine?#$b#You've no idea my relief at that confidence. I want to be strong for you, @. I truly do.$2#$b#But dear, you must know how my heart sunk to see you brought into this room. To lose you, I cannot fathom how I would go on.$2#$b#Please promise me, that you shall use the utmost caution in the future. I need you, whom I love, in my life.",
 
   // Spouse - Juliet
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Juliet.04": "",
+  //"PlayerKilled.Juliet.04": "Hey @! Are you awake? Are you all there? Are you... ok?$2",
   //"PlayerKilled.Juliet.05": "",
   //"PlayerKilled.Juliet.08": "",
   //"PlayerKilled.Juliet.20": "",
@@ -885,16 +886,15 @@
   "IslandEnd.Sophia.01": "Whoa! Hey, you! You look like you've had an exciting day.$5#$b#A volcano adventure...? Goodness, you really are living a life for the books. Just be sure you don't get seriously hurt, okay?$1#$b#Okay, go wash up. All that soot in your hair looks like hair dye gone wrong.$1#$b#I really fell in love with the wildest of the whole bunch, didn't I?$9",
 
   // End Dialogue - Lance
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"HospitalEnd.Lance.01": "",
-  //"HospitalEnd.Lance.02": "",
+  "HospitalEnd.Lance.01": "@ my love! It gladdens my heart to see you walk through our door. Now more than ever. Of course you would. But I am still relieved to see your face.$1#$b#Now, how shall I take your mind off recent events? At the moment your needs are the priority.",
+  "HospitalEnd.Lance.02": "It's simple. But it might not be easy for you to hear. Are you ready?$6#$b#You need to take a break from your duties. Even a short one would put my mind at ease. Please take it slow.$2#$b#Tend to your lingering injuries. Recover your energy. Ah, right! To those ends I've prepared some food.$1#$b#Of course, if you don't eat it, I might just take it back... [198 907 200 207 218 232]$1",
 
-  //"MineEnd.Lance.01": "",
-  //"MineEnd.Lance.02": "",
+  "MineEnd.Lance.01": "Venturing into the mines is not a glamorous prospect. Your appearance is proof of that, love.$1#$b#Joking aside. You could stand to endure some TLC from yours truly.$4",
+  "MineEnd.Lance.02": "After you're settled and composed, I will try to salvage the research I was going over. It's surely scattered everywhere, I left with such haste.#$b#Important? Sure, but that work can be redone. It could all flutter away if it means you come back home.#$b#No more work. Here. I have a delicious pick-me-up with your name on it. Tuck in, love.[198 200 197 212 231]",
 
-  //"DivorcedEnd.Lance.01": "",
+  "DivorcedEnd.Lance.01": "Even now I still worry about you. I still find myself thinking of you. Am I a fool? Perhaps.$6#$b#...I am in turmoil. I can feel my heart hurting all over again. I must go.$2",
 
-  //"IslandEnd.Lance.01": "",
+  "IslandEnd.Lance.01": "Ah, have you been within Mount Kohldur again? Those burns. That soot. It is rather obvious. And hard to avoid such insults upon your person from that place$5#$b#Even with my skills, I rarely leave spotless. How would you feel about a protective ward? Maybe another time? Very well.$1",
 
   // End Dialogue - Victor
   "HospitalEnd.Victor.01": "Oh, you're home! I hope the walk home wasn't too hard on you. I know you're tough, but I really can't help but worry when accidents like this happen.",
@@ -911,16 +911,15 @@
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
 
   // End Dialogue - Aideen
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"HospitalEnd.Aideen.01": "",
-  //"HospitalEnd.Aideen.02": "",
+  "HospitalEnd.Aideen.01": "Darling you're back! Should I have arranged transport for you? Perhaps it would've been an ordeal for such a short distance. No matter. You're home now.$1",
+  "HospitalEnd.Aideen.02": "I would believe a few hours resting amongst the flowers would do you a world of good, dear.$1#$b#I've had a chance to better compose myself, and I want to give you all the support you need. Here you are, my love, some quality food. [196 199 200 207 727]$1",
 
-  //"MineEnd.Aideen.01": "",
-  //"MineEnd.Aideen.02": "",
+  "MineEnd.Aideen.01": "Welcome home, my love. Are you sure the walk home wasn't too much? I don't care how miniscule the injury is. I am permitted to worry over you.$1",
+  "MineEnd.Aideen.02": "You should take some time to recuperate, beloved. I believe you have been pushing yourself entirely too hard lately.#$b#I'll return to tending the garden later. I took the liberty of preparing some food for you. [199 205 207 222 231]$1",
 
-  //"DivorcedEnd.Aideen.01": "",
+  "DivorcedEnd.Aideen.01": "I am relieved to hear you're on the mend. However, I have no desire to continue this conversation, @.$2#$b#Apologies. Peace is fleeting in your presence. Your face brings forth too many painful memories. If you'll excuse me, I've other matters to attend to.$6",
 
-  //"IslandEnd.Aideen.01": "",
+  "IslandEnd.Aideen.01": "Yoba blessed be! What manner of mischief befell you!?$5#$b#Your complexion and attire are likewise wretched. You're burned!$3#$b#Volcano? Surely you jest, darling? Ah, but you have been to Fern Island?$5#$b#Oh dear! The thought of you traipsing through a volcano... Why must you wrack my nerves so?$5#$b#What's done is done. Go and wash up my love. You are in dire need of such attention.$7",
 
   // End Dialogue - Juliet
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //

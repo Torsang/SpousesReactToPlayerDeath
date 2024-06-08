@@ -2,7 +2,7 @@
   /////////////////
   // Setup Stuff //
   /////////////////
-  
+
   "Format": "2.0",
   "ConfigSchema": {
     "ExInvolvement": {
@@ -15,22 +15,22 @@
   ////////////////////////////////
   // Establish Condition Tokens //
   ////////////////////////////////
-  
+
   "DynamicTokens": [
-    { //Fallback token for spouses not explicitly declared
+    { // Fallback token for spouses not explicitly declared
       "Name": "SpouseName",
       "Value": "default"
     },
-    { //Catch-all token for spouses, oof long list - Finally got permission for all of these characters!
+    { // Catch-all token for spouses, oof long list - Finally got permission for all of these characters!
       "Name": "SpouseName",
       "Value": "{{Spouse}}",
       "When": {
         "Spouse": "Abigail, Emily, Haley, Leah, Maru, Penny, Alex, Elliott, Harvey, Sam, Sebastian, Shane, Krobus, Clint, Pam, Willy, Wizard, Claire, Olivia, Sophia, Lance, Victor, Aideen, Juliet, Kataryna, Tristan, Alissa, Blair, Corine, Flor, Kiarra, Maddie, Ysabelle, Ian, Jeric, June, Kenneth, Philip, Sean, Shiro"
       }
     },
-    //I know this formatting is generally bad form, but it becomes vertically LORGE otherwise :'(
-    
-    //Base-game marriage-able Characters
+    // I know this formatting is generally bad form, but it becomes vertically LORGE otherwise :'(
+
+    // Base-game marriage-able Characters
     {
       "Name": "ExSpouse", "Value": "Abigail",   "When": { "Relationship:Abigail":   "Divorced" }, },
     {
@@ -55,8 +55,8 @@
       "Name": "ExSpouse", "Value": "Sebastian", "When": { "Relationship:Sebastian": "Divorced" }, },
     {
       "Name": "ExSpouse", "Value": "Shane",     "When": { "Relationship:Shane":     "Divorced" }, },
-    
-    //Base-game Characters but marriageable via mods
+
+    // Base-game Characters but marriageable via mods
     {
       "Name": "ExSpouse", "Value": "Clint",     "When": { "Relationship:Clint":     "Divorced" }, },
     {
@@ -65,8 +65,8 @@
       "Name": "ExSpouse", "Value": "Willy",     "When": { "Relationship:Willy":     "Divorced" }, },
     {
       "Name": "ExSpouse", "Value": "Wizard",    "When": { "Relationship:Wizard":    "Divorced" }, },
-    
-    //Stardew Valley Expanded Characters
+
+    // Stardew Valley Expanded Characters
     {
       "Name": "ExSpouse", "Value": "Claire",    "When": { "Relationship:Claire":    "Divorced" }, },
     {
@@ -74,49 +74,49 @@
     {
       "Name": "ExSpouse", "Value": "Sophia",    "When": { "Relationship:Sophia":    "Divorced" }, },
     {
-      "Name": "ExSpouse", "Value": "Lance",     "When": { "Relationship:Lance":     "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Lance",     "When": { "Relationship:Lance":     "Divorced" }, },
     {
       "Name": "ExSpouse", "Value": "Victor",    "When": { "Relationship:Victor":    "Divorced" }, },
-    
-    //East Scarp Characters
+
+    // East Scarp Characters
     {
-      "Name": "ExSpouse", "Value": "Aideen",    "When": { "Relationship:Aideen":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Aideen",    "When": { "Relationship:Aideen":    "Divorced" }, },
     {
-      "Name": "ExSpouse", "Value": "Juliet",    "When": { "Relationship:Juliet":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Juliet",    "When": { "Relationship:Juliet":    "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Tristan",   "When": { "Relationship:Tristan":   "Divorced" }, }, // Dialogue TODO //MinesGroup-TODO-Courage
+
+    // Ridgeside Characters
     {
-      "Name": "ExSpouse", "Value": "Tristan",   "When": { "Relationship:Tristan":   "Divorced" }, }, // TODO
-    
-    //Ridgeside Characters
+      "Name": "ExSpouse", "Value": "Alissa",    "When": { "Relationship:Alissa":    "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Alissa",    "When": { "Relationship:Alissa":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Blair",     "When": { "Relationship:Blair":     "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Blair",     "When": { "Relationship:Blair":     "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Corine",    "When": { "Relationship:Corine":    "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Corine",    "When": { "Relationship:Corine":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Flor",      "When": { "Relationship:Flor":      "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Flor",      "When": { "Relationship:Flor":      "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Kiarra",    "When": { "Relationship:Kiarra":    "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "Kiarra",    "When": { "Relationship:Kiarra":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Maddie",    "When": { "Relationship:Maddie":    "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "Maddie",    "When": { "Relationship:Maddie":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Ysabelle",  "When": { "Relationship:Ysabelle":  "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "Ysabelle",  "When": { "Relationship:Ysabelle":  "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Ian",       "When": { "Relationship:Ian":       "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Ian",       "When": { "Relationship:Ian":       "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Jeric",     "When": { "Relationship:Jeric":     "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "Jeric",     "When": { "Relationship:Jeric":     "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "June",      "When": { "Relationship:June":      "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "June",      "When": { "Relationship:June":      "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Kenneth",   "When": { "Relationship:Kenneth":   "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Kenneth",   "When": { "Relationship:Kenneth":   "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Philip",    "When": { "Relationship:Philip":    "Divorced" }, }, // Dialogue TODO 
     {
-      "Name": "ExSpouse", "Value": "Philip",    "When": { "Relationship:Philip":    "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Sean",      "When": { "Relationship:Sean":      "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
     {
-      "Name": "ExSpouse", "Value": "Sean",      "When": { "Relationship:Sean":      "Divorced" }, }, // TODO
-    {
-      "Name": "ExSpouse", "Value": "Shiro",     "When": { "Relationship:Shiro":     "Divorced" }, }, // TODO
+      "Name": "ExSpouse", "Value": "Shiro",     "When": { "Relationship:Shiro":     "Divorced" }, }, // Dialogue TODO 
   ],
 
   /////////////////////////////////////
@@ -155,7 +155,6 @@
       "Action": "Include", "FromFile": "assets/MinesWizard.json" },
 
     // // // Island Death Events // // //
-    // TODO >> >> FIX ISLAND DIALOGUE MISSING I18N FIELDS << << TODO //
     {
       "Action": "Include", "FromFile": "assets/IslandB4LAll.json" },
     {

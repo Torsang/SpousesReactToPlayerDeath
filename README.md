@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.2.5
+# SpousesReactToPlayerDeath - Version 1.3.0
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,11 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.3.0 - Dialogue Round 1</summy>
+  
+  - Added dialogue for Lance from SVE and Aideen from ES
+</details>
 <details>
   <summary>Version 1.2.5 - i18n Refactor Completion</summary>
 
@@ -53,9 +58,9 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 
 ### Roadmap
 - [x] Refactor content.json to delegate files for ease of modification
-- [ ] Add missing SVE character - Lance
+- [x] Add missing SVE character - Lance
 - [ ] Add content for the remaining East Scarp characters (Jasper was the original inspiration for this mod, and is already handled in the East Scarp mod?)
-  - [ ] Aideen
+  - [x] Aideen
   - [ ] Juliet
   - [ ] Kataryna
   - [ ] Tristan
@@ -75,6 +80,9 @@ This project creates a Content Patcher mod that adds additional relationship-cen
   - [ ] Sean
   - [ ] Shiro
 - [ ] Follow up on additional characters as time/motivation allows
+  - [ ] Rasmodia
+  - [ ] Gale - Wizard of Waterdeep
+  - [ ] Wilford
 - [ ] Add additional content for event variants (spouses shouldn't say the same thing every single time, hey?)
 
 ~~Investigate refactoring i18n file for ease of modification~~ i18n files cannot be refactored as far as I can tell, sadge
