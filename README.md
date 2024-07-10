@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.3.0
+# SpousesReactToPlayerDeath - Version 1.3.1
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,13 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.3.1 - Dialogue Round 2</summary>
+
+  - Added dialogue for Juliet from Lemurkat
+  - Fixed (hopefully) the dialogue fetch issue for as-yet un-implemented spouses
+  - Added missing dialogue to the default spouse section
+</details>
 <details>
   <summary>Version 1.3.0 - Dialogue Round 1</summy>
   
@@ -61,7 +68,7 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 - [x] Add missing SVE character - Lance
 - [ ] Add content for the remaining East Scarp characters (Jasper was the original inspiration for this mod, and is already handled in the East Scarp mod?)
   - [x] Aideen
-  - [ ] Juliet
+  - [x] Juliet
   - [ ] Kataryna
   - [ ] Tristan
 - [ ] Add content for the Ridgeside Village characters
