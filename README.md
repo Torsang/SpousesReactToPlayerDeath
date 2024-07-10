@@ -16,7 +16,7 @@ This project creates a Content Patcher mod that adds additional relationship-cen
   - Added missing dialogue to the default spouse section
 </details>
 <details>
-  <summary>Version 1.3.0 - Dialogue Round 1</summy>
+  <summary>Version 1.3.0 - Dialogue Round 1</summary>
   
   - Added dialogue for Lance from SVE and Aideen from ES
 </details>
