@@ -66,9 +66,9 @@
   "PlayerKilled.default.04":"Thank goodness you're okay...$2",
   "PlayerKilled.default.05":"I came as fast as possible when I heard you were hurt.#$b#I was really worried for you.$2",
   "PlayerKilled.default.08": "I'm relieved that you look better already, but please, @... Don't ever scare me like that again.$2",
-  // "PlayerKilled.default.20": "",
-  // "PlayerKilled.default.21": "",
-  // "PlayerKilled.default.22": "",
+  "PlayerKilled.default.20": "Of course, Dr. Harvey. I'm not looking to be a bother. I'll be quick.",
+  "PlayerKilled.default.21": "Hello @. I suppose you're surprised to see me$s#$b#It's not so strange. I still care for you, after all. I guess my heart can't let go that easily.$s#$b#Of course I'm going to worry about you, @. You nearly died! You shouldn't be alone at a time like this.$s",
+  "PlayerKilled.default.22": "This isn't worth thanking me for. I'm afraid this was for my peace of mind as much as your sake.#$b#Like I said, you're still special to me. In spite of my better judgement...$s#$b#I'll be going now. Take care of yourself, you need it now more than usual.",
 
   "MineKilled.default.01": "Easy does it, dear. Are you feeling okay?",
 	"MineKilled.default.02": "You were gone for a really long time, so I got a little worried.#$b#Marlon agreed to go check in on you for my peace of mind, and I'm just glad he found you in time. You look like you'll be alright.$2",
@@ -402,18 +402,17 @@
   "MineKilled.Aideen.07": "You're certain you'll be fine?#$b#You've no idea my relief at that confidence. I want to be strong for you, @. I truly do.$2#$b#But dear, you must know how my heart sunk to see you brought into this room. To lose you, I cannot fathom how I would go on.$2#$b#Please promise me, that you shall use the utmost caution in the future. I need you, whom I love, in my life.",
 
   // Spouse - Juliet
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Juliet.04": "Hey @! Are you awake? Are you all there? Are you... ok?$2",
-  //"PlayerKilled.Juliet.05": "",
-  //"PlayerKilled.Juliet.08": "",
-  //"PlayerKilled.Juliet.20": "",
-  //"PlayerKilled.Juliet.21": "",
-  //"PlayerKilled.Juliet.22": "",
+  "PlayerKilled.Juliet.04": "Hey @! Are you awake? Are you still all there? Are you... ok?$2",
+  "PlayerKilled.Juliet.05": "Hey, I can be caring too, ya know? And besides...$3#$b#It's... it's really important to me that you stick around...$2",
+  "PlayerKilled.Juliet.08": "Thank Yoba I got the tears out of my system already. I shouldn't be so worked up. I know how tough you are... but...$2#$b#You gotta think of me, too! Remember what sent me here in the first place...$2",
+  "PlayerKilled.Juliet.20": "Yeah, sure thing Doc. I just want to say my piece and I'll be gone.$3",
+  "PlayerKilled.Juliet.21": "Yup. You're definitely tough to beat. I'd be stupid to think otherwise#$b#Listen. I'm not here to be in your hair. I just wanted to make sure you weren't about to keel over.$5#$b#Don't read too much into it, ok? I'm just being nice.$3",
+  "PlayerKilled.Juliet.22": "Being where you are right now, it's terrifying. I know. Too well.$2#$b#But you seem to be picking yourself back up. So I don't need to stick around. I'd rather not. Stick around, that is. Any longer.$3#$b#So, you take care of yourself. And I'll take care of myself. And we'll just go our separate ways...$2#$b#See you later, I guess.$2",
 
-  //"MineKilled.Juliet.01": "",
-  //"MineKilled.Juliet.02": "",
-  //"MineKilled.Juliet.04": "",
-  //"MineKilled.Juliet.07": "",
+  "MineKilled.Juliet.01": "Hey @! What were you thinking? I'm kinda freaking out, you know!?$5",
+  "MineKilled.Juliet.02": "I can't even remember what I was doing! Yoba knows I was hauling butt over here, though.$5#$b#Marlon brought you up. I wanted to be wrong. For him to come back empty-handed. But you're here. Hurt.$2#$b#Do you really have to do this? Do you have to be reckless like... him?$2#$b#I probably deserve to feel this way. Maybe it's my lot in life. But I'm still going to ask.$2#$b#Maybe... take a day off? I just want you to be safe, please. For me.$2",
+  "MineKilled.Juliet.04": "Me? Compassionate? Have you met me? A moment of weakness is all that was. Totally.$1#$b#Okay. Maybe I do care about this one. A little bit. I guess you got me figured out.",
+  "MineKilled.Juliet.07": "Even so, you're darn lucky I went through the trouble. Seeing you safe makes this all seem worth the stress. I think I've kept it together, all things considered.#$b#I think you owe me something especially nice for this. Now what should I ask for? I'll come up with something, don't you worry.$1#$b#Kidding aside. I just want to look out for you, ya know? You're pretty darn special to me.",
 
   // Spouse - Kataryna
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
@@ -922,16 +921,15 @@
   "IslandEnd.Aideen.01": "Yoba blessed be! What manner of mischief befell you!?$5#$b#Your complexion and attire are likewise wretched. You're burned!$3#$b#Volcano? Surely you jest, darling? Ah, but you have been to Fern Island?$5#$b#Oh dear! The thought of you traipsing through a volcano... Why must you wrack my nerves so?$5#$b#What's done is done. Go and wash up my love. You are in dire need of such attention.$7",
 
   // End Dialogue - Juliet
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"HospitalEnd.Juliet.01": "",
-  //"HospitalEnd.Juliet.02": "",
+  "HospitalEnd.Juliet.01": "Welcome back to our abode! All things considered you DON'T look like you need to get tossed in the dumpster out back. Which is good, obviously$1#$b#",
+  "HospitalEnd.Juliet.02": "I took some time to get all that mushy feelings stuff squared away, 'cause I figure you need some focus right now. So don't worry about me.#$b#So to that end. I, uh, made some food. It wasn't too hard. And I think it turned out well. Eat and get some strength back. [651 618 224 211 206]",
 
-  //"MineEnd.Juliet.01": "",
-  //"MineEnd.Juliet.02": "",
+  "MineEnd.Juliet.01": "Oh good, you're home! I think some R and R is in order. Ooh, maybe we should go to the pool?",
+  "MineEnd.Juliet.02": "So, I'm pretty proud of myself for keeping my head as well as I did. Fine, yes I freaked out. But still.$1#$b#I was able to get help so you were brought to safety. That HAS to count for something.$1#$b#Anyways. Because you need to get your energy back up and stuff, you should totally eat this. [205 651 731 206 211]",
 
-  //"DivorcedEnd.Juliet.01": "",
+  "DivorcedEnd.Juliet.01": "Don't get used to seeing me. You left me, remember? Sure, it's a relief to see you're ok. But that's all I'm here for.$5#$b#I'm all alone. You left me. Just like Nathaniel...$2",
 
-  //"IslandEnd.Juliet.01": "",
+  "IslandEnd.Juliet.01": "Hey, you... uh... probably should put out any smoldering bits before spending too much time inside.$2#$b#Why are you like that anyways?$3#$b#A volcano? Are you serious right now? Yes I'm stressing out! Be kinda weird if I wasn't, you know?$5#$b#Just...$2#$b#Just promise me you'll be careful. Please.$3#$b#You're incorrigible. You're driving me to therapy. I swear, you put my past to shame with how over the top you are.$1",
 
   // End Dialogue - Kataryna
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
