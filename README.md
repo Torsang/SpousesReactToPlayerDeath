@@ -96,6 +96,7 @@ This project creates a Content Patcher mod that adds additional relationship-cen
   - [ ] Rasmodia
   - [ ] Gale - Wizard of Waterdeep
   - [ ] Wilford
+  - [ ] Marlon
 - [ ] Add additional content for event variants (spouses shouldn't say the same thing every single time, hey?)
 
 ~~Investigate refactoring i18n file for ease of modification~~ i18n files cannot be refactored as far as I can tell, sadge
