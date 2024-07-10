@@ -25,8 +25,9 @@
       "Name": "SpouseName",
       "Value": "{{Spouse}}",
       "When": {
-        "Spouse": "Abigail, Emily, Haley, Leah, Maru, Penny, Alex, Elliott, Harvey, Sam, Sebastian, Shane, Krobus, Clint, Pam, Willy, Wizard, Claire, Olivia, Sophia, Lance, Victor, Aideen, Juliet, Kataryna, Tristan, Alissa, Blair, Corine, Flor, Kiarra, Maddie, Ysabelle, Ian, Jeric, June, Kenneth, Philip, Sean, Shiro"
-      }
+        "Spouse": "Abigail, Emily, Haley, Leah, Maru, Penny, Alex, Elliott, Harvey, Sam, Sebastian, Shane, Krobus, Clint, Pam, Willy, Wizard, Claire, Olivia, Sophia, Lance, Victor, Aideen, Juliet",
+        // , Kataryna, Tristan, Alissa, Blair, Corine, Flor, Kiarra, Maddie, Ysabelle, Ian, Jeric, June, Kenneth, Philip, Sean, Shiro"
+      },
     },
     // I know this formatting is generally bad form, but it becomes vertically LORGE otherwise :'(
 
@@ -82,41 +83,41 @@
     {
       "Name": "ExSpouse", "Value": "Aideen",    "When": { "Relationship:Aideen":    "Divorced" }, },
     {
-      "Name": "ExSpouse", "Value": "Juliet",    "When": { "Relationship:Juliet":    "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, }, // Dialogue TODO 
+      "Name": "ExSpouse", "Value": "Juliet",    "When": { "Relationship:Juliet":    "Divorced" }, },
     //{
-    //  "Name": "ExSpouse", "Value": "Tristan",   "When": { "Relationship:Tristan":   "Divorced" }, }, // Dialogue TODO //MinesGroup-TODO-Courage
+    //  "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Tristan",   "When": { "Relationship:Tristan":   "Divorced" }, }, // Dialogue TODO 
 
     // Ridgeside Characters
-    {
-      "Name": "ExSpouse", "Value": "Alissa",    "When": { "Relationship:Alissa":    "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Blair",     "When": { "Relationship:Blair":     "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Corine",    "When": { "Relationship:Corine":    "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Flor",      "When": { "Relationship:Flor":      "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Kiarra",    "When": { "Relationship:Kiarra":    "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "Maddie",    "When": { "Relationship:Maddie":    "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "Ysabelle",  "When": { "Relationship:Ysabelle":  "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "Ian",       "When": { "Relationship:Ian":       "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Jeric",     "When": { "Relationship:Jeric":     "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "June",      "When": { "Relationship:June":      "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "Kenneth",   "When": { "Relationship:Kenneth":   "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Philip",    "When": { "Relationship:Philip":    "Divorced" }, }, // Dialogue TODO 
-    {
-      "Name": "ExSpouse", "Value": "Sean",      "When": { "Relationship:Sean":      "Divorced" }, }, // Dialogue TODO // MinesGroup-TODO
-    {
-      "Name": "ExSpouse", "Value": "Shiro",     "When": { "Relationship:Shiro":     "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Alissa",    "When": { "Relationship:Alissa":    "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Blair",     "When": { "Relationship:Blair":     "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Corine",    "When": { "Relationship:Corine":    "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Flor",      "When": { "Relationship:Flor":      "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Kiarra",    "When": { "Relationship:Kiarra":    "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Maddie",    "When": { "Relationship:Maddie":    "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Ysabelle",  "When": { "Relationship:Ysabelle":  "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Ian",       "When": { "Relationship:Ian":       "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Jeric",     "When": { "Relationship:Jeric":     "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "June",      "When": { "Relationship:June":      "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Kenneth",   "When": { "Relationship:Kenneth":   "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Philip",    "When": { "Relationship:Philip":    "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Sean",      "When": { "Relationship:Sean":      "Divorced" }, }, // Dialogue TODO 
+    //{
+    //  "Name": "ExSpouse", "Value": "Shiro",     "When": { "Relationship:Shiro":     "Divorced" }, }, // Dialogue TODO 
   ],
 
   /////////////////////////////////////
