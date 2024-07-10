@@ -5,7 +5,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Mine",
       "When": {
-        "Spouse": "Haley, Leah, Penny, Elliott, Harvey, Pam, Willy, Claire, Olivia, Sophia, Aideen, Juliet, default",
+        "Spouse": "Haley, Leah, Penny, Elliott, Harvey, Pam, Willy, Claire, Olivia, Sophia, Aideen, Juliet",
         // Alissa, Corine, Flor, Kiarra, Ysabelle, Ian, June, Sean",
       },
       "Entries": {
