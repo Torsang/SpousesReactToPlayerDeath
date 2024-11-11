@@ -5,7 +5,7 @@
 
   "Format": "2.0",
   "ConfigSchema": {
-    "ExInvolvement": {
+    "Ex-Involvement": {
       "AllowValues": "true, false",
       "Default": "true",
       "Description": "{{i18n:ExInvolvement.Description}}"
@@ -23,10 +23,26 @@
     },
     { // Catch-all token for spouses, oof long list - Finally got permission for all of these characters!
       "Name": "SpouseName",
-      "Value": "{{Spouse}}",
+      "Value": "Spouse",
       "When": {
         "Spouse": "Abigail, Emily, Haley, Leah, Maru, Penny, Alex, Elliott, Harvey, Sam, Sebastian, Shane, Krobus, Clint, Pam, Willy, Wizard, Claire, Olivia, Sophia, Lance, Victor, Aideen, Juliet",
         // , Kataryna, Tristan, Alissa, Blair, Corine, Flor, Kiarra, Maddie, Ysabelle, Ian, Jeric, June, Kenneth, Philip, Sean, Shiro"
+      },
+    },
+    {
+      "Name": "MinesCourageSpouse",
+      "Value": "MCrgSpouse",
+      "When": {
+        "Spouse": "Abigail, Emily, Maru, Alex, Sam, Sebastian, Shane, Clint, Lance, Victor"
+        // Kataryna, Tristan?, Maddie, Kenneth, Philip, Shiro",
+      },
+    },
+    {
+      "Name": "MinesCompassionSpouse",
+      "Value": "MCmpsnSpouse",
+      "When": {
+        "Spouse": "Haley, Leah, Penny, Elliott, Harvey, Pam, Willy, Claire, Olivia, Sophia, Aideen, Juliet"
+        // Alissa, Blair, Corine, Flor, Kiarra, Ysabelle, Ian, Jeric, June, Sean",
       },
     },
     // I know this formatting is generally bad form, but it becomes vertically LORGE otherwise :'(
@@ -84,8 +100,8 @@
       "Name": "ExSpouse", "Value": "Aideen",    "When": { "Relationship:Aideen":    "Divorced" }, },
     {
       "Name": "ExSpouse", "Value": "Juliet",    "When": { "Relationship:Juliet":    "Divorced" }, },
-    //{
-    //  "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, }, // Dialogue TODO 
+    {
+      "Name": "ExSpouse", "Value": "Kataryna",  "When": { "Relationship:Kataryna":  "Divorced" }, },
     //{
     //  "Name": "ExSpouse", "Value": "Tristan",   "When": { "Relationship:Tristan":   "Divorced" }, }, // Dialogue TODO 
 
@@ -118,6 +134,10 @@
     //  "Name": "ExSpouse", "Value": "Sean",      "When": { "Relationship:Sean":      "Divorced" }, }, // Dialogue TODO 
     //{
     //  "Name": "ExSpouse", "Value": "Shiro",     "When": { "Relationship:Shiro":     "Divorced" }, }, // Dialogue TODO 
+
+    // Misc Characters
+    //{
+    //  "Name": "ExSpouse", "Value": "",  "When": { "Relationship:":  "Divorced" }, }, // Dialogue TODO
   ],
 
   /////////////////////////////////////

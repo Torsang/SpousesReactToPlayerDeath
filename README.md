@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.3.2
+# SpousesReactToPlayerDeath - Version 1.3.3
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -9,6 +9,14 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 
 ### Changelog
 <details>
+  <summary>Version 1.3.3 - Dialogue + QoL</summary>
+  
+  - Added dialog for Kataryna from ES
+  - Added pt.json translation file (many thanks to Nexusmods member helens0uzasilva)
+  - Fixed conditions check for Krobus
+  - Fixed conditions check for Lance from SVE
+</details>
+<details>
   <summary>Version 1.3.2 - Dialogue QoL</summary>
   
   - Added option to skip all cutscenes
@@ -17,7 +25,7 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 <details>
   <summary>Version 1.3.1 - Dialogue Round 2</summary>
 
-  - Added dialogue for Juliet from Lemurkat
+  - Added dialogue for Juliet from ES
   - Fixed (hopefully) the dialogue fetch issue for as-yet un-implemented spouses
   - Added missing dialogue to the default spouse section
 </details>
