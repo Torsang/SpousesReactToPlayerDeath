@@ -6,7 +6,7 @@
       "Target": "Data/Events/IslandSouth",
       "When": {
         "HasFlag": "addedParrotBoy",
-        "Spouse": "Krobus",
+        "Roommate": "Krobus",
         "DayOfWeek": "Friday",
       },
       "Entries": {

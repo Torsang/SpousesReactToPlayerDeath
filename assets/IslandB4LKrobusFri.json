@@ -5,7 +5,7 @@
       "Action": "EditData",
       "Target": "Data/Events/IslandSouth",
       "When": {
-        "Spouse": "Krobus",
+        "Roommate": "Krobus",
         "DayOfWeek": "Friday",
       },
       "Entries": {
