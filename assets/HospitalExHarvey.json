@@ -5,7 +5,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "When": {
-        "ExInvolvement": "true",
+        "Ex-Involvement": "true",
         "HasValue:{{Spouse}}": "false",
         "HasValue:{{ExSpouse}}": "true", // Redundant with the below line?
         "query: '{{ExSpouse}}' IN ('Harvey')": true,
