@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.3.3
+# SpousesReactToPlayerDeath - Version 1.3.4
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,12 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.3.4 - Small bugfix</summary>
+  
+  - Fixed Kataryna's missing token membership for selecting the correct mines scene
+  - Added optional dependencies to manifest.json
+</details>
 <details>
   <summary>Version 1.3.3 - Dialogue + QoL</summary>
   

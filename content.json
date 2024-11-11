@@ -5,7 +5,7 @@
 
   "Format": "2.0",
   "ConfigSchema": {
-    "Ex-Involvement": {
+    "ExInvolvement": {
       "AllowValues": "true, false",
       "Default": "true",
       "Description": "{{i18n:ExInvolvement.Description}}"
@@ -33,8 +33,8 @@
       "Name": "MinesCourageSpouse",
       "Value": "MCrgSpouse",
       "When": {
-        "Spouse": "Abigail, Emily, Maru, Alex, Sam, Sebastian, Shane, Clint, Lance, Victor"
-        // Kataryna, Tristan?, Maddie, Kenneth, Philip, Shiro",
+        "Spouse": "Abigail, Emily, Maru, Alex, Sam, Sebastian, Shane, Clint, Lance, Victor, Kataryna"
+        //, Tristan?, Maddie, Kenneth, Philip, Shiro",
       },
     },
     {
@@ -42,7 +42,7 @@
       "Value": "MCmpsnSpouse",
       "When": {
         "Spouse": "Haley, Leah, Penny, Elliott, Harvey, Pam, Willy, Claire, Olivia, Sophia, Aideen, Juliet"
-        // Alissa, Blair, Corine, Flor, Kiarra, Ysabelle, Ian, Jeric, June, Sean",
+        //, Alissa, Blair, Corine, Flor, Kiarra, Ysabelle, Ian, Jeric, June, Sean",
       },
     },
     // I know this formatting is generally bad form, but it becomes vertically LORGE otherwise :'(
