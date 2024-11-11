@@ -1,6 +1,6 @@
 { 
   // Utility Strings //
-  "ExInvolvement.Description": "When not remarried, allows your ex-spouse to visit the hospital after player 'death' for an expanded cutscene.",
+  "ExInvolvement.Description": "When not re-married, allows your ex-spouse to participate in player 'death' cutscenes.",
   
   /////////////////////////////
   // Common Dialogue Section //
@@ -429,7 +429,7 @@
 
   // Spouse - Tristan
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Tristan.04": "",
+  //"PlayerKilled.Tristan.04": "Hey, easy does it. Don't force yourself just yet.",
   //"PlayerKilled.Tristan.05": "",
   //"PlayerKilled.Tristan.08": "",
   //"PlayerKilled.Tristan.20": "",
