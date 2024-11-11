@@ -11,7 +11,7 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 <details>
   <summary>Version 1.3.3 - Dialogue + QoL</summary>
   
-  - Added dialog for Kataryna from ES
+  - Added dialogue for Kataryna from ES
   - Added pt.json translation file (many thanks to Nexusmods member helens0uzasilva)
   - Fixed conditions check for Krobus
   - Fixed conditions check for Lance from SVE
