@@ -5,7 +5,7 @@
 
   "Format": "2.0",
   "ConfigSchema": {
-    "ExInvolvement": {
+    "Ex-Involvement": {
       "AllowValues": "true, false",
       "Default": "true",
       "Description": "{{i18n:ExInvolvement.Description}}"
