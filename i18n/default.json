@@ -415,18 +415,17 @@
   "MineKilled.Juliet.07": "Even so, you're darn lucky I went through the trouble. Seeing you safe makes this all seem worth the stress. I think I've kept it together, all things considered.#$b#I think you owe me something especially nice for this. Now what should I ask for? I'll come up with something, don't you worry.$1#$b#Kidding aside. I just want to look out for you, ya know? You're pretty darn special to me.",
 
   // Spouse - Kataryna
-  // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"PlayerKilled.Kataryna.04": "",
-  //"PlayerKilled.Kataryna.05": "",
-  //"PlayerKilled.Kataryna.08": "",
-  //"PlayerKilled.Kataryna.20": "",
-  //"PlayerKilled.Kataryna.21": "",
-  //"PlayerKilled.Kataryna.22": "",
+  "PlayerKilled.Kataryna.04": "Oh @! I'm so relieved that you're ok. Or more accurately, GOING to be ok.",
+  "PlayerKilled.Kataryna.05": "Not to be insensitive, but you're looking ragged!#$b#I know, I know. These may not be the worst injuries I've seen, but I still hate to see them on you$2#$b#What were you thinking? You should know by now how dangerous the wilds can be!$2#$b#What kind of creature even did this to you? A hit like this, landed on you. I'm sure it was nothing but luck.$1",
+  "PlayerKilled.Kataryna.08": "You know how much I care about you, my dear. You have well and properly captured my heart.#$b#So you need to remember that even if I seem distracted in the moment, you are still easily ...top 3 to me.$1#$b#Kidding, kidding$1#$b#you are absolutely the best thing to happen to me. You welcomed me when nobody else did. You opened your home and your heart.$4#$b#You opened your life to me. I know this is a selfish request, but please don't be so reckless.$2",
+  "PlayerKilled.Kataryna.20": "Don't worry Doctor. I have enough tact not to make this worse.",
+  "PlayerKilled.Kataryna.21": "Good. You're awake. And from the look of things, surprised to see me.$2#$b#You're giving me too little credit, @. Of course I can't leave you to go through something like this all alone.$2#$b#Even after you left. I guess I haven't moved on just yet.$5#$b#I promised Dr. Harvey. No dramatics. I'll be off.$2",
+  "PlayerKilled.Kataryna.22": "Don't go second-guessing your choices now. I want you to focus on yourself.$5#$b#Your stubbornness got through my shell, it's only fair I'm a bit stubborn back.$1#$b#I won't lie. When I heard you were hurt, my heart dropped. In spite of myself I couldn't stay away.$2#$b#...I'm overstaying my welcome, so I'll be leaving now. Just... please give me space.$2#$b#I need to sort out my feelings. And you need to rest.$2",
 
-  //"MineKilled.Kataryna.01": "",
-  //"MineKilled.Kataryna.02": "",
-  //"MineKilled.Kataryna.04": "",
-  //"MineKilled.Kataryna.07": "",
+  "MineKilled.Kataryna.01": "@! Can you hear me? Look at me.",
+  "MineKilled.Kataryna.02": "My instincts told me something big was going on at the mines. I know to trust that feeling. And now here you are.$1#$b#Marlon was kind enough to indulge my request, although he refused to accept payment...#$b#No matter, you're safe. And I contributed. Sort of.$4",
+  "MineKilled.Kataryna.04": "Hey now, I said I sort of contributed. Any more credit to me and you'll be diminishing Marlon's efforts.$1#$b#But thank you, I'll take the compliment with as much grace as I can muster.$4",
+  "MineKilled.Kataryna.07": "I propose we head back home. This will give me a chance to pamper you... and pick your brain about what happened.#$b#What's the confused look? You knew what you were getting into, marrying me.$1#$b#On a serious note: Let's take it easy, get something hot in your belly, and wind down from all of this excitement. That's an order from your loving spouse!$1#$b#Now upsy-daisy, lazy. Take my hand. Here, let me help you. It's ok to lean on me if you need it.",
 
   // Spouse - Tristan
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
@@ -933,15 +932,15 @@
 
   // End Dialogue - Kataryna
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
-  //"HospitalEnd.Kataryna.01": "",
-  //"HospitalEnd.Kataryna.02": "",
+  "HospitalEnd.Kataryna.01": "Let's get you comfortable. I'm absolutely burning to find out what happened, but I'll keep a lid on it for your sake.$2",
+  "HospitalEnd.Kataryna.02": "Don't play down your importance to me, @. It's been a long time since I received that much compassion. I'd almost forgotten how it feels...$4#$b#My cooking skills may not be the best, but I tried all the same. Here, dig in [196 224 232 609 649]",
 
-  //"MineEnd.Kataryna.01": "",
-  //"MineEnd.Kataryna.02": "",
+  "MineEnd.Kataryna.01": "You're finally home! Still obviously rough around the edges. And probably in between. You should take a bath.$1",
+  "MineEnd.Kataryna.02": "Take care of your hygiene and get some rest, @. Getting some downtime is paramount to good health.#$b#Don't think I forgot what I said. You will receive pampering. And I won't take no for an answer!#$b#Behold! I even picked up something from Gus on the way back.[206 224 240 606]$1",
 
-  //"DivorcedEnd.Kataryna.01": "",
+  "DivorcedEnd.Kataryna.01": "Don't lead me on. I know I'm just a pulp hack through and through. You shouldn't associate with me anymore.$2#$b#Return to your business, @. And I'll return to mine. Alone.$2",
 
-  //"IslandEnd.Kataryna.01": "",
+  "IslandEnd.Kataryna.01": "What sort of story is there for ...this!?$3#$b#You look like you're still charred and smoking, for goodness sake! Go sort yourself out, pronto!#$b#Yes of course it's a relief that you're alright, babe. I do have some humanity left after all these years$1#$b#Years and years running myself ragged, and I promise your antics are why I'll go gray. but I wouldn't trade us for anything.",
 
   // End Dialogue - Tristan
   // TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO //
