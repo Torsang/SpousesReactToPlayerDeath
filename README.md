@@ -9,6 +9,11 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 
 ### Changelog
 <details>
+  <summary>Version 1.3.5-beta3 - Bugfix ...again</summary>
+  
+  - Fixed malformed spouse tokens
+</details>
+<details>
   <summary>Version 1.3.5-beta2 - Bugfix</summary>
   
   - Fixed mismatched tokens in scene selection logic (again)
