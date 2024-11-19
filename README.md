@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.3.5-beta2
+# SpousesReactToPlayerDeath - Version 1.3.5-beta3
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
