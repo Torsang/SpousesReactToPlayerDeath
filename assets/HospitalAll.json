@@ -5,6 +5,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "When": {
+        "HasValue: {{Spouse}}": true,
         "Spouse": "{{Spouse}}, default",
       },
       "Entries": {

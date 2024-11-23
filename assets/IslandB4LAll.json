@@ -5,6 +5,7 @@
       "Action": "EditData",
       "Target": "Data/Events/IslandSouth",
       "When": {
+        "HasValue: {{Spouse}}": true,
         "Spouse": "{{Spouse}}, default",
       },
       "Entries": {

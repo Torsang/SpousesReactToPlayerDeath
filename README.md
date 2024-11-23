@@ -1,4 +1,4 @@
-# SpousesReactToPlayerDeath - Version 1.3.5-beta3
+# SpousesReactToPlayerDeath - Version 1.3.5-beta4
 _Forked and updated for Stardew Valley 1.6+ and Content Patcher 2.0+_
 
 ### Releases
@@ -8,6 +8,15 @@ Available at [NexusMods.com]
 This project creates a Content Patcher mod that adds additional relationship-centric content to player death cutscene.
 
 ### Changelog
+<details>
+  <summary>Version 1.3.5-beta4 - Bugfix again again</summary>
+  
+  - Fixed scene selection conditions
+  - Fixed malformed spouse tokens ...again
+  - Adjusted NPC routes in hospital ex scene to terminate at more logical spots
+  - Improved troubleshooting process so as to reduce bugs in future public releases
+  - Updated roadmap
+</details>
 <details>
   <summary>Version 1.3.5-beta3 - Bugfix ...again</summary>
   
@@ -100,16 +109,19 @@ This project creates a Content Patcher mod that adds additional relationship-cen
 
 ### Roadmap
 - [x] Refactor content.json to delegate files for ease of modification
-- [x] Add missing SVE character - Lance
+- [ ] Add missing SVE characters
+  - [x] Lance
+  - [ ] Scarlett
 - [ ] Add content for the remaining East Scarp characters (Jasper was the original inspiration for this mod, and is already handled in the East Scarp mod?)
   - [x] Aideen
   - [x] Juliet
-  - [ ] Kataryna
+  - [x] Kataryna
   - [ ] Tristan
 - [ ] Add content for the Ridgeside Village characters
   - [ ] Alissa
   - [ ] Blair
   - [ ] Corine
+  - [ ] Daia
   - [ ] Flor
   - [ ] Kiarra
   - [ ] Maddie
@@ -126,7 +138,10 @@ This project creates a Content Patcher mod that adds additional relationship-cen
   - [ ] Gale - Wizard of Waterdeep
   - [ ] Wilford
   - [ ] Marlon
+  - [ ] My Eugene
 - [ ] Add additional content for event variants (spouses shouldn't say the same thing every single time, hey?)
+- [ ] Investigate handling for individual players in a multiplayer game
+- [ ] Investigate compatibility with other mods
 
 ~~Investigate refactoring i18n file for ease of modification~~ i18n files cannot be refactored as far as I can tell, sadge
 
